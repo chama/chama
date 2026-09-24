@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on AI adoption. 
-- 📫 How to reach me: [@chamafoobar](https://twitter.com/chamafoobar)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: love jiro
 
